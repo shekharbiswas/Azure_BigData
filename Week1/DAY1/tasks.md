@@ -64,7 +64,7 @@ Create a short text file called `azure-names.md` in your project folder and fill
 3. The planned names for the resources you will create this week, filling in each line:
    - Resource group: `rg-bigdata-dev`
    - Storage account: (must be 3-24 characters, lowercase letters and numbers only, and unique across Azure, so add a few digits of your own)
-   - Key Vault:
+   - Key Vault: kv-bigdata-dev-4821
    - Data Factory (for Week 2):
 4. A line stating your cost rules: budget alert set, one resource group per project, delete at project end.
 
