@@ -1,0 +1,2 @@
+- [data_pipeline](https://docs.google.com/document/d/17Oy45UlR2G23qwK0fj_UEF5cXqQkAxkV6Yx5RBxg4ts/edit?tab=t.0)
+- [azure_for_data_engg](https://docs.google.com/document/d/1mZjOiwtbk1_b4enft7wBv7V1AzxvtE2BrqSJifRnHc0/edit?tab=t.0#heading=h.qeldpf5z9csr)
